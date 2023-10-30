@@ -1,4 +1,3 @@
-# Brandon-Albornoz
 <h1 align="center">Hi 👋, I'm Albornoz, Brandon</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
